@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zenota/TPCI/Zeno-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj": {}
+    "/Users/zenota/TPCI/Dorilas-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj": {}
   },
   "projects": {
-    "/Users/zenota/TPCI/Zeno-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj": {
+    "/Users/zenota/TPCI/Dorilas-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zenota/TPCI/Zeno-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj",
+        "projectUniqueName": "/Users/zenota/TPCI/Dorilas-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj",
         "projectName": "AzureDevopsTuto",
-        "projectPath": "/Users/zenota/TPCI/Zeno-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj",
+        "projectPath": "/Users/zenota/TPCI/Dorilas-AzureDevopsTuto/AzureDevopsTuto/AzureDevopsTuto.csproj",
         "packagesPath": "/Users/zenota/.nuget/packages/",
-        "outputPath": "/Users/zenota/TPCI/Zeno-AzureDevopsTuto/AzureDevopsTuto/obj/",
+        "outputPath": "/Users/zenota/TPCI/Dorilas-AzureDevopsTuto/AzureDevopsTuto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zenota/.config/NuGet/NuGet.Config"
